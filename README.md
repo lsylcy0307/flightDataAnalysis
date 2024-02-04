@@ -26,7 +26,7 @@ models used in previous questions to recommend steps or action items to better i
 beyond using the model itself.
 
 
-Data Analysis:
+Some graph analysis of the dataset:
 
 
 <img width="198" alt="Screenshot 2024-02-03 at 8 58 18 PM" src="https://github.com/lsylcy0307/flightDataAnalysis/assets/62744724/1aec1c45-97a9-4a53-8db9-499e074dd428">
